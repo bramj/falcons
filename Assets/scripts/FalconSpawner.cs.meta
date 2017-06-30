@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 025fcad41f9e4482290a8d87901fda9b
+timeCreated: 1494779066
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - falconPrefab: {fileID: 50613966408525774, guid: 5528c1c078a1c456aa9af008a1d4f729,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

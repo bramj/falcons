@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ecd0a18829684aa5aa26df8b261173a
+timeCreated: 1494777224
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - splatEffect: {fileID: 198050977133831324, guid: 1f8f8a8e5bb87458494e8875efa3ad47,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
